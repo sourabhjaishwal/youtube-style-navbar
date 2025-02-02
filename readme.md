@@ -14,17 +14,6 @@ A responsive YouTube-style sidebar navigation with interactive icons and hover e
 ![YouTube Navbar Screenshot 2](./assets/Screenshot-02.png)
 
 ### Technologies Used
-
-- **HTML** – Structured the layout with sections for navigation icons, logo, and links.
-- **CSS** – Styled the sidebar, navigation items, and responsive design using media queries.
-- **JavaScript** – Implemented interactivity by highlighting the active navigation item upon click.
-
-### Learnings & Outcome
-
-### Short Description
-A responsive YouTube-style sidebar navigation with interactive icons and hover effects, designed to adapt to various screen sizes for an optimal user experience.
-
-### Technologies Used
 - **HTML** – Structured the layout with sections for navigation icons, logo, and links.
 - **CSS** – Styled the sidebar, navigation items, and responsive design using media queries.
 - **JavaScript** – Implemented interactivity by highlighting the active navigation item upon click.
