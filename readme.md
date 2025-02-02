@@ -6,7 +6,7 @@
 
 A responsive YouTube-style sidebar navigation with interactive icons and hover effects, designed to adapt to various screen sizes for an optimal user experience.
 
-➡️[Live Link]()
+➡️[Live Link](https://youtube-style-navbar.vercel.app/)
 
 ### Screenshots
 
